@@ -3,7 +3,7 @@
 # dogyun dogyun：香港VPS低至199元/年，重庆独服机400元(2*Platinum 8259CL/128g内存/960gSSD/150M带宽)
  
 
-# 官方网站：https://www.dogyun.com
+# 官方网站：[https://www.dogyun.com](https://www.dogyun.com/?ref=stone)
 
  
 
@@ -18,7 +18,7 @@
 | 存储         | 960G SSD 企业级                                                         |
 | 网络         | 150Mbps 10T/月                                                          |
 | 价格         | 预售价 ¥400/月，年付为 ¥4000元并升级为1.92T SSD 企业级                  |
-| 购买链接     | [点击这里](https://ds.dogyun.com/server/preorder)                        |
+| 购买链接     | [点击这里](https://ds.dogyun.com/server/preorder?ref=stone)                        |
 
 ## 香港VPS（EQ机房，优化线路）
 
@@ -32,7 +32,7 @@
 | 带宽         | 50 Mbps                                                                 |
 | 流量         | 500 GB                                                                  |
 | 价格         | ¥199/年                                                                 |
-| 购买链接     | [点击这里](https://ds.dogyun.com/vps/preorder)                           |
+| 购买链接     | [点击这里]([https://vm.dogyun.com/server/create/144?ref=stone)                           |
 
 ### 方案二
 
@@ -44,6 +44,6 @@
 | 带宽         | 50 Mbps                                                                 |
 | 流量         | 1000 GB                                                                 |
 | 价格         | ¥299/年                                                                 |
-| 购买链接     | [点击这里](https://vm.dogyun.com/server/create/145)                     |
+| 购买链接     | [点击这里](https://vm.dogyun.com/server/create/145?ref=stone)                     |
 
-*以上信息来源于[狗云官网](https://www.dogyun.com)*
+
