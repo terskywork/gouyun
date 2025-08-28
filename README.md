@@ -1,1 +1,33 @@
-# gouyun
+dogyun：香港VPS低至199元/年，重庆独服机400元(2*Platinum 8259CL/128g内存/960gSSD/150M带宽)
+
+夏日炎炎重庆新版物理服务器预售开始了，低至400元/月（4000元/年）给双路Intel Xeon® Platinum 8259CL、128G DDR4、960G企业级SSD、150M带宽（每月给10T流量），年付硬盘会自动升级到1.92T SSD，机器交付时间在9月上旬，在9月底会开放自行邮寄硬盘添加活动到时候会发公告说明。另外，本次香港EQ机房提供两款特价VPS，采用AMD EPYC™ 7003\DDR4\NVMe SSD阵列，低至199元/年….
+
+dogyun dogyun：香港VPS低至199元/年，重庆独服机400元(2*Platinum 8259CL/128g内存/960gSSD/150M带宽)
+
+官方网站：https://www.dogyun.com
+
+重庆物理机独立服务器（预售/9月上旬交付）
+CPU： 2 x Xeon® Platinum 8259CL @ 24C48T 2.5 ~ 3.5 GHz
+内存： 128G DDR4 RECC
+存储： 960 SSD 企业级
+网络：150Mbps 10T/月
+预售价 ¥400/月，年付为¥4000元并升级为1.92T SSD 企业级
+购买链接
+ 
+
+香港VPS（EQ机房，优化线路）
+内存：1 G
+CPU：1 vCPU EPYC™ 7003 Series
+硬盘：20 GiB NVMe
+带宽：50 Mbps  流量：500 GB
+价格：¥199/年
+购买链接
+ 
+
+香港VPS（EQ机房，优化线路）
+内存：2 GiB
+CPU：2 vCPU EPYC™ 7003 Series
+硬盘：40 GiB NVMe
+带宽：50 Mbps  流量：1000 GB
+价格：¥299/年
+购买链接
