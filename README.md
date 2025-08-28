@@ -7,7 +7,7 @@
 
  
 
-# 重庆物理机独立服务器（预售/9月上旬交付）
+# ** 重庆物理机独立服务器（预售/9月上旬交付）**
 - CPU： 2 x Xeon® Platinum 8259CL @ 24C48T 2.5 ~ 3.5 GHz
 - 内存： 128G DDR4 RECC
 - 存储： 960 SSD 企业级
@@ -16,7 +16,7 @@
 - 购买链接
  
 
-- 香港VPS（EQ机房，优化线路）
+#  ** 香港VPS（EQ机房，优化线路）**
 - 内存：1 G
 - CPU：1 vCPU EPYC™ 7003 Series
 - 硬盘：20 GiB NVMe
@@ -25,7 +25,7 @@
 - 购买链接
  
 
-- 香港VPS（EQ机房，优化线路）
+# ** 香港VPS（EQ机房，优化线路）**
 - 内存：2 GiB
 - CPU：2 vCPU EPYC™ 7003 Series
 - 硬盘：40 GiB NVMe
