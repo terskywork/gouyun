@@ -1,7 +1,6 @@
-<img width="400" height="267" alt="image" src="https://github.com/user-attachments/assets/8f184af1-8d42-4d8f-a7a1-70dc96f37315" /> 夏日炎炎重庆新版物理服务器预售开始了，低至400元/月（4000元/年）给双路Intel Xeon® Platinum 8259CL、128G DDR4、960G企业级SSD、150M带宽（每月给10T流量），年付硬盘会自动升级到1.92T SSD，机器交付时间在9月上旬，在9月底会开放自行邮寄硬盘添加活动到时候会发公告说明。另外，本次香港EQ机房提供两款特价VPS，采用AMD EPYC™ 7003\DDR4\NVMe SSD阵列，低至199元/年….
+夏日炎炎重庆新版物理服务器预售开始了，低至400元/月（4000元/年）给双路Intel Xeon® Platinum 8259CL、128G DDR4、960G企业级SSD、150M带宽（每月给10T流量），年付硬盘会自动升级到1.92T SSD，机器交付时间在9月上旬，在9月底会开放自行邮寄硬盘添加活动到时候会发公告说明。另外，本次香港EQ机房提供两款特价VPS，采用AMD EPYC™ 7003\DDR4\NVMe SSD阵列，低至199元/年….
 
-![Uploading image.png…]()
-
+<img width="400" height="267" alt="image" src="https://github.com/user-attachments/assets/8f184af1-8d42-4d8f-a7a1-70dc96f37315" /> 
 
 
 # dogyun：香港VPS低至199元/年，重庆独服机400元(2*Platinum 8259CL/128g内存/960gSSD/150M带宽)
