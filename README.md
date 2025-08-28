@@ -3,7 +3,7 @@
 <img width="400" height="267" alt="image" src="https://github.com/user-attachments/assets/8f184af1-8d42-4d8f-a7a1-70dc96f37315" /> 
 
 
-# dogyun：香港VPS低至199元/年，重庆独服机400元(2*Platinum 8259CL/128g内存/960gSSD/150M带宽)
+dogyun：香港VPS低至199元/年，重庆独服机400元(2*Platinum 8259CL/128g内存/960gSSD/150M带宽)
  
 # 官方网站：[https://www.dogyun.com](https://www.dogyun.com/?ref=stone)
  
